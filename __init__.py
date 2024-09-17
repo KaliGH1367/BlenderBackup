@@ -3,7 +3,7 @@ bl_info = {
     "description": "Automatically creates backups of your Blender file on save.",
     "location": "File > Save",
     "author": "FAS",
-	"license": "GPL-3.0",
+    "license": "GPL-3.0",
     "version": (1, 0, 0),
     "blender": (4, 1, 0),
     "warning": "",
