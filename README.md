@@ -9,7 +9,7 @@ This Blender Backup Addon automatically creates backups of your Blender file on 
 - **Backup Management**: Set a maximum number of backups to keep per blend file, or choose to keep unlimited backups.
 
 ## Installation
-1. Download the addon from [link].
+1. Download the addon [here](https://github.com/KaliGH1367/BlenderBackup/releases/latest).
 2. Open Blender and go to `Edit > Preferences > Add-ons`.
 3. Click on `Install...` and select the downloaded file.
 4. Enable the addon by checking the box next to its name.
